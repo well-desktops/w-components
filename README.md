@@ -1,2 +1,2 @@
-# w-components
+# W Components
 W Components
